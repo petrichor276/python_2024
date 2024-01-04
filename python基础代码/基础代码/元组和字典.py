@@ -19,7 +19,7 @@ print(a)
 b={}
 for i in a:
    b[i]=b.get(i,0)+1
-#print(b[i]=b.get(i,0)+1 for i in a )老师，这一段可以使用推导式吗？如果可以怎么改为可以运行的代码？
+#print(b[i]=b.get(i,0)+1 for i in a )
 print(b)
 
 
