@@ -1,4 +1,4 @@
-byte_list =[-49, -60, -62, -27]
+byte_list = [-49, -60, -62, -27]
 
 bs = bytearray()  # python字节数组
 for item in byte_list:
